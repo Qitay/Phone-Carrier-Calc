@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<oferty>
+  <oferta id="1">
+    <nazwa>Z rachunkiem</nazwa>
+    <iloscSMS>-1</iloscSMS>
+    <iloscMinut>-1</iloscMinut>
+    <iloscDanych>-1</iloscDanych>
+    <Cena>9</Cena>
+    <smsCena>0.09</smsCena>
+    <mmsCena>0.19</mmsCena>
+    <minCena>0.19</minCena>
+    <mbCena>0.0185546875</mbCena>
+    <website>http://www.njumobile.pl/oferta/nju-z-rachunkiem</website>
+  </oferta>
+  <oferta id="2">
+    <nazwa>Z rachunkiem2</nazwa>     
+    <iloscSMS>100</iloscSMS>
+    <iloscMinut>100</iloscMinut>
+    <iloscDanych>1024</iloscDanych>
+    <website>http://www.njumobile.pl/oferta/nju-z-rachunkiem</website>
+  </oferta>
+</oferty>
